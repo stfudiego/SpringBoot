@@ -150,3 +150,6 @@ java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protoco
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-10 18:55:36.480
 !MESSAGE Classpath changed for project: Demo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-10 20:29:42.983
+!MESSAGE Classpath changed for project: Demo
