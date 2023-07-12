@@ -962,3 +962,33 @@ org.eclipse.jface.text.BadLocationException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 00:58:14.058
 !MESSAGE Classpath changed for project: TareaEnrutamiento
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:03:25.125
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:03:25.126
+!MESSAGE Boot project ADDED: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:03:25.612
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:08:33.218
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:08:55.685
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:10:07.756
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:12:18.984
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:20:40.333
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:21:18.954
+!MESSAGE Classpath changed for project: TareaHumano
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 01:22:24.025
+!MESSAGE Classpath changed for project: TareaHumano
